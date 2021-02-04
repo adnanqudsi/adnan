@@ -217,13 +217,12 @@ right: 30%;
 #testimonials{
   padding: 7% 15%;
   text-align: center;
-  background-color:#ef8172;
+  background-color:#dbe2ef;
   color:#fff;
 
 }
 .testimonial-img{
-  width:20%;
-  border-radius: 100%;
+  width:80%;
   margin:20px;
 }
 #press{
