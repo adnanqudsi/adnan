@@ -167,6 +167,14 @@ margin-bottom: 50px;
   color: #ef8172;
   margin-bottom: 10px;
 }
+@media (max-width:1028px){
+  #title{
+    text-align: center;
+  }
+  .title-image{
+    position: static;
+    transform: rotate(0);
+  }
 
 .color:hover{
   color:#ff4c68;
