@@ -166,9 +166,12 @@ margin-bottom: 50px;
   margin: 5% 3% 5% 0;
 }
 .testimonial-img{
-  width:40%;
-  height:40%;
+  width:80%;
+  height:80%;
   margin:20px;
+}
+.testimonial-text{
+font size: 30px;
 }
 .color{
   color: #ef8172;
