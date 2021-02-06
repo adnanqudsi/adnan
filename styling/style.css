@@ -149,6 +149,9 @@ margin-bottom: 50px;
   font-weight: bold;
 
 }
+.c{
+	color:#112d4e;
+	}
 .navbar{
     padding :0 0 4.5rem;
 }
@@ -162,7 +165,11 @@ margin-bottom: 50px;
 .down-btn{
   margin: 5% 3% 5% 0;
 }
-
+.testimonial-img{
+  width:40%;
+  height:40%;
+  margin:20px;
+}
 .color{
   color: #ef8172;
   margin-bottom: 10px;
@@ -187,11 +194,7 @@ margin-bottom: 50px;
   color:#fff;
 
 }
-.testimonial-img{
-  width:40%;
-  height:4%;
-  margin:20px;
-}
+
 #press{
   background-color: #ef8172;
   text-align: center;
@@ -204,8 +207,6 @@ margin-bottom: 50px;
 .carousel-item{
   padding: 7% 15%;
 }
-.c{
-	color:#112d4e;
-	}
+
 
 
